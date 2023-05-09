@@ -1,0 +1,23 @@
+Metadata-Version: 2.1
+Name: finrl
+Version: 0.3.6
+Summary: FinRL: Financial Reinforcement Learning Framework.
+Home-page: https://github.com/finrl/finrl-library
+Author: Hongyang Yang, Xiaoyang Liu, Ming Zhu
+Author-email: hy2500@columbia.edu
+License: MIT
+Keywords: Reinforcement Learning,Finance
+Platform: UNKNOWN
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Classifier: Programming Language :: Python :: Implementation :: CPython
+Classifier: Programming Language :: Python :: Implementation :: PyPy
+Requires-Python: >=3.7
+License-File: LICENSE
+
+Version 0.3.5 notes: stable version, code refactoring, more tutorials, clear documentation
+
